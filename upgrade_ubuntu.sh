@@ -8,4 +8,4 @@ apt-get update
 apt-get upgrade
 apt-get install update-manager-core
 do-release-upgrade
-echo "A reboot is reqired. You can check the upgrade by using this command: `lsb_release -a`"
+echo "A reboot is reqired. You can check the upgrade by using this command: lsb_release -a"
